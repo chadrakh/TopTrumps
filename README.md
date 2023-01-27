@@ -1,10 +1,9 @@
-# TopTrumpsNovus
+# Top Trumps ASP.NET
+<b>Developers:</b>
+Leyton, Chadrak, Nicola, Hassan and Ewan
 
-IMPORTANT
-Please run the commented code inside program to insert the decks into the database once! And then recomment the /**/ code
+## Summary
+A game of Top Trumps built using ASP.NET which allows a player to go up against the system in a two player format until a winner is decided.
 
-Created by Leyton, Chadrak, Nicola, Hassan and Ewan
-
-The game is complete, has an AI turn after the player clicks a button, so please wait 3 seconds to play again.
-
-Hover over the left hand card to see the stats and select which one to play
+## If running locally...
+Clone the repository and run the commented code within Program.cs to populate the database with the card information stored within the CSV file before running the application.
